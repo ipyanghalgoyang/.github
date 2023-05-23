@@ -20,4 +20,12 @@
 |<img src="./images/styled-components.png" width="250">|<img src="./images/nodejs.png" width="250">|<img src="./images/express.png" width="250">|<img src="./images/mysql.png" width="250">|
 <hr><br>
 
+### 개발 환경
+ - `Java 11`
+ - **IDE** : intelliJ, VScode, eclipse
+ - **Framework** : Springboot2.7.12, react3.x
+ - **Database** : Mysql5.x
+ - **ORM** : jpa
+
+
 ## 프로젝트를 통해 배운점 

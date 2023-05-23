@@ -1,10 +1,10 @@
 # 입양할고양 프로젝트   
 
 ### 멤버구성
- - 김명현
- - 김시아
- - 백성곤
- - 이진권
+ - <a href="https://github.com/luke-sage-kim">김명현</a>
+ - <a href="">김시아</a>
+ - <a href="https://github.com/canoa0327">백성곤</a>
+ - <a href="https://github.com/gwon522">이진권</a>
    
 ## 프로젝트 목표    
 

@@ -23,7 +23,7 @@
 ### 개발 환경
  - `Java 11`
  - **IDE** : intelliJ, VScode, eclipse
- - **Framework** : Springboot2.7.12, react3.x
+ - **Framework** : Springboot 2.7.12, react 18.2
  - **Database** : Mysql5.x
  - **ORM** : jpa
 

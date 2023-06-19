@@ -1,10 +1,10 @@
 # 입양할고양 프로젝트   
 
 ### 멤버구성
- - <a href="https://github.com/luke-sage-kim">김명현</a>
- - <a href="https://github.com/thesiakim">김시아</a>
- - <a href="https://github.com/canoa0327">백성곤</a>
- - <a href="https://github.com/gwon522">이진권</a>
+ - <a href="https://github.com/luke-sage-kim" target="_blank">김명현</a>
+ - <a href="https://github.com/thesiakim" target="_blank">김시아</a>
+ - <a href="https://github.com/canoa0327" target="_blank">백성곤</a>
+ - <a href="https://github.com/gwon522" target="_blank">이진권</a>
    
 ## 프로젝트 목표    
 

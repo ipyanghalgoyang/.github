@@ -1,13 +1,13 @@
 # 입양할고양 프로젝트   
 
 ### 멤버구성
- - <a href='https://github.com/luke-sage-kim' target='_blank'>김명현</a> : 백엔드 </br>
+ - <a href='https://github.com/luke-sage-kim' target='_blank'>김명현</a> - 백엔드 </br>
    담당 : 
- - <a href='https://github.com/thesiakim' target='_blank'>김시아</a> : 백엔드 </br>
+ - <a href='https://github.com/thesiakim' target='_blank'>김시아</a> - 백엔드 </br>
    담당 : 
- - <a href='https://github.com/canoa0327' target='_blank'>백성곤</a> : 프론트엔드 </br>
+ - <a href='https://github.com/canoa0327' target='_blank'>백성곤</a> - 프론트엔드 </br>
    담당 : 
- - <a href='https://github.com/gwon522' target='_blank'>이진권</a> : 백엔드 </br>
+ - <a href='https://github.com/gwon522' target='_blank'>이진권</a> - 백엔드 </br>
    담당 : 
    
 ## 프로젝트 목표    

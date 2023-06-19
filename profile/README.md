@@ -2,7 +2,7 @@
 
 ### 멤버구성
  - <a href="https://github.com/luke-sage-kim">김명현</a>
- - <a href="">김시아</a>
+ - <a href="https://github.com/thesiakim">김시아</a>
  - <a href="https://github.com/canoa0327">백성곤</a>
  - <a href="https://github.com/gwon522">이진권</a>
    
